@@ -83,5 +83,5 @@ Developed by
 Parth Sorathiya - 202401215  
 Prit Kasundra - 202401453  
 Rudra Trivedi - 202401266  
-Aaryan Dalsaniya - 202401405  
+Aryan Dalsaniya - 202401405  
 
